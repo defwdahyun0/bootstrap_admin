@@ -1,6 +1,8 @@
 # Adminator HTML5 Admin Template
-**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/adminator/index.html
 
+https://github.com/puikinsh/Adminator-admin-dashboard
+
+**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/adminator/index.html
 # Preview
 
 ### Screenshot
@@ -149,6 +151,8 @@ Used to create a local dev server in order to preview the final output of build 
 ## Changelog
 #### V 1.0.0
 Initial Release
+#### 21.05.04
+Datatable Ajax Connect
 
 ## Authors
 [Colorlib](https://colorlib.com)
